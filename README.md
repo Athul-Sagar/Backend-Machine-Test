@@ -44,7 +44,7 @@ product-management-api/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-github-repo-link>
+   git clone https://github.com/Athul-Sagar/Backend-Machine-Test.git
    cd BACKEND MACHINE TEST
    ```
 
